@@ -10,7 +10,7 @@ Companion setup guide: see the [Ultimate TikTok Ads Skills for Claude Desktop](h
 
 **Option B — npx (Claude Code):**
 ```bash
-npx skills add <your-github-username>/tiktok-ads-skills
+npx skills add emilyhellqvist/tiktok-ads-skills
 ```
 Select all 21 skills when prompted, and choose Global scope.
 
